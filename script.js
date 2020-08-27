@@ -41,7 +41,7 @@ let score = 0;
 // Init time
 let time = 10;
 
-// Set difficulty to value in1s or medium
+// Set difficulty to value in 1s or medium
 let difficulty = 
     localStorage.getItem('difficulty') !== null 
         ? localStorage.getItem('difficulty') 
